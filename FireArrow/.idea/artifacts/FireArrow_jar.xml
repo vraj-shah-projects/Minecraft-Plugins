@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FireArrow:jar">
+    <output-path>$USER_HOME$/Desktop/Minecraft/Server/plugins</output-path>
+    <root id="archive" name="FireArrow.jar">
+      <element id="module-output" name="FireArrow" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot 1.16.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

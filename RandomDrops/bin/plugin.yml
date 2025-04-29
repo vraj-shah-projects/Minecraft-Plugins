@@ -1,0 +1,7 @@
+name: RandomDrops
+version: 1.0
+api-version: 1.16
+author: Vraj
+main: me.vraj.randomdrops.Main
+description: My fourth minecraft spigot plugin!
+api-version: 1.17

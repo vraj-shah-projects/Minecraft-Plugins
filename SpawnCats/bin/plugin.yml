@@ -1,0 +1,6 @@
+name: SpawnCats
+version: 1.0
+author: Vraj
+main: me.vraj.spawncats.Main
+description: My third minecraft spigot plugin!
+api-version: 1.17

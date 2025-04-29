@@ -1,0 +1,6 @@
+name: SnowballExplosion
+version: 1.0
+author: Vraj
+main: me.vraj.snowballexplosion.Main
+description: My fifth minecraft spigot plugin!
+api-version: 1.17

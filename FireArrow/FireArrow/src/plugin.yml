@@ -1,0 +1,6 @@
+name: FireArrow
+version: 1.0
+author: Vraj
+main: me.vraj.firearrow.Main
+description: Minecraft plugin that simulates flame arrows to light blocks.
+api-version: 1.17
